@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي لا تغيب عن عيني
+> في ظلام الليل أنت نوري
+> قلبي ينبض بشوق وحنين
+> روحك تسري في دمي وشراييني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
